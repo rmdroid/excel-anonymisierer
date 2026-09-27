@@ -35,7 +35,7 @@ Ohne Lizenzschlüssel ist nichts freigeschaltet.
 | | Laufzeit | |
 |---|---|---|
 | **Testzugang** | 7 Tage | voller Funktionsumfang, kostenlos |
-| **Dauerlizenz** | unbefristet | Einstellungen aus dem Test bleiben erhalten |
+| **Dauerlizenz** | unbefristet | 99 € einmalig je Arbeitsplatz, ausgestellt auf Ihre Organisation; Einstellungen aus dem Test bleiben erhalten |
 
 Anfrage und Bestellung: [BESTELLUNG.md](BESTELLUNG.md). Der Schlüssel wird
 lokal geprüft – keine Onlineaktivierung, keine Übertragung.

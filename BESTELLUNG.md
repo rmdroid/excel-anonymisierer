@@ -15,7 +15,8 @@ Sie erhalten den Testschlüssel per E-Mail, in der Regel am selben Werktag.
 
 ## Dauerlizenz
 
-Unbefristet. Einstellungen und Profile aus dem Test bleiben erhalten.
+Unbefristet, 99 € einmalig je Arbeitsplatz, ausgestellt auf Ihre Organisation.
+Einstellungen und Profile aus dem Test bleiben erhalten.
 
 Bestellung an **rm@kostenmanager.net**:
 

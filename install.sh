@@ -115,7 +115,7 @@ else
 fi
 
 # ---------------------------------------------------------------- Starten
-step "Abbild laden (rund 3 GB, nur beim ersten Mal)"
+step "Abbild laden (rund 2,2 GB, nur beim ersten Mal)"
 if [ "${SKIP_PULL:-0}" != "1" ]; then
   docker pull "$IMAGE"
 else
